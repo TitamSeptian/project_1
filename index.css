@@ -1,0 +1,69 @@
+body {
+  margin: none;
+  padding: none;
+  font-family: 'Padauk', sans-serif;;
+  background-size: cover;
+}
+
+.content {
+  background: #c0c0c0; 
+  width: 350px;
+  margin: 200px auto 0;
+  border-radius: 5px;
+  min-height: 256px;
+  overflow: hidden; 
+  background: rgba(255,255,255,0.4);
+}
+
+.login-box {
+  width: 280px;
+  position: absolute;
+  margin-left: 35px;
+  margin-top: 30px;
+}
+
+.txt {
+  margin-bottom: 20px;
+  font-family: 'Padauk', sans-serif;
+}
+
+.textbox {
+  width: 100%;
+  overflow: hidden;
+  font-size: 20px;
+  padding: 4px 0;
+  margin-top: 8px 0;
+  border-bottom: 1px solid #f4f4f4;
+}
+
+.textbox input {
+  border: none;
+  outline: none;
+  background: none; 
+}
+
+.btn {
+  width: 80%;
+  background: white;
+  border: 3px solid #f4f4f4;
+  margin-top: 15px;
+  font-family: 'Padauk', sans-serif;
+}
+
+.footer {
+  text-align: center;
+  text-decoration-color: white;
+  margin: 200px;
+  background: rgba(0,0,0,0.2);
+}
+
+
+
+
+
+
+
+
+
+
+
